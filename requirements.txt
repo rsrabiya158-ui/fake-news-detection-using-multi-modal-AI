@@ -1,7 +1,7 @@
 streamlit
 torch
 transformers
-pillow
+Pillow
 numpy
 scikit-learn
 opencv-python
